@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<expenses>
+  <expense date="21.8.2015" category="education" amount="900">
+    Tutorial book about Ruby on Rails
+  </expense>
+
+  <expense date="21.9.2015" category="Games" amount="900">
+    CS:GO
+  </expense>
+
+</expenses>
